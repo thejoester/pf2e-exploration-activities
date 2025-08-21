@@ -1,5 +1,8 @@
 # pf2e-explorationActivities
 
+> [!NOTE]
+> This is a copy of the [PF2e Exploration Activities](https://github.com/IcyLemonZ/pf2e-exploration-activities) module that seems to have been abandoned. I have done minimal work to get this operating for v13. 
+
 Import the "Exploration Activities Request" macro from the PF2E Exploration Activities compendium. 
 
 To request an Exploration Activity from a player/players, select them and run the macro. A popup will appear on their screen with a drop down for them to select an activity. The selected activity will be output to the chat and if an effect exists it will be applied to thier token.
